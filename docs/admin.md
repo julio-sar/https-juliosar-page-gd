@@ -1,0 +1,1 @@
+https://dash.infinityfree.com/accounts/if0_41231441/ftpDetails

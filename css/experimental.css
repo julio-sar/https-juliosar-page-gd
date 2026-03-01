@@ -1,0 +1,19 @@
+nav
+{
+    background-size: 200% 100%;
+    background-position: 50%;
+    background-image: linear-gradient(-45deg, rgb(97, 0, 105), black, rgb(128, 83, 0), black);
+    animation: background-rgb-chroma 5s infinite alternate-reverse;
+}
+
+@keyframes background-rgb-chroma {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 50% 0%;
+  }
+}
