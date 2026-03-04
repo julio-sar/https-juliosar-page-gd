@@ -1,2 +1,8 @@
+# IDE-specific configuration settings
 .vscode
+
+# Heaviest known matter in existence
+node_modules
+
+# Non-code specific files, local to the machine.
 desktop.ini
