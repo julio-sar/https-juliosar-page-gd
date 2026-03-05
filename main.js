@@ -1,1 +1,1 @@
-import "/src/html.js"
+import "./src/html.js"
