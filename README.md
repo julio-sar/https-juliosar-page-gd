@@ -1,7 +1,7 @@
 # FTP
-[![](https://img.shields.io/badge/github-repo-blue?logo=github)](#) [![](https://img.shields.io/badge/release-stable-orange?logo=git)](#) [![](https://img.shields.io/badge/Online-green)](#)
+[![](https://img.shields.io/badge/github-repo-blue?logo=github)](#) [![](https://img.shields.io/badge/release-stable-orange?logo=git)](#) [![](https://img.shields.io/badge/Online-green)](#) 
 
-Welcome to the source git repository for https://juliosar.page.gd
+Welcome to the source git repository for https://juliosar.page.gd 
 
 ---
 
